@@ -5,9 +5,9 @@ body {
 }
 
 button{
-   color: blue;
+   color: black;
    font-family: Times;
-   border-radius: 20px;
+   border-radius: 30px;
 }
 
     #minuteStr {
@@ -60,20 +60,24 @@ button{
     }
     
     #btnA {
-        font-size: 20px;
+        font-size: 30px;
         position:absolute; top:380px; left:2%; width:43%; height:60px; 
-        background-color: yellow;
-        color: green;
+        background-color: black;
+        color: yellow;
     }
     
     #btnB {
-        font-size: 20px;
+        font-size: 30px;
         position:absolute; top:380px; left:45%; width:25%; height:60px; 
+        background-color: black;
+        color: yellow;
     }
 
     #btnC {
-        font-size: 10px;
+        font-size: 30px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
+        background-color: black;
+        color: yellow;
     }
     
     #minute {
